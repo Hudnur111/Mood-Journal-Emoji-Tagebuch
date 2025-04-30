@@ -10,6 +10,5 @@ Das Mood-Journal ist eine Anwendung, die es Benutzern ermöglicht, ihre täglich
 - Benutzerfreundliche Oberfläche
 
 ## Wartung
-1. Klone das Repository:
-   ```bash
-   git clone https://github.com/deinbenutzername/mood-journal.git
+Der Code wird alle paar Monate von einer speziell programmierten KI überprüft, um sicherzustellen, dass er effizient und fehlerfrei bleibt. Diese regelmäßige Überprüfung hilft, die Qualität und Sicherheit der Anwendung zu gewährleisten.
+
