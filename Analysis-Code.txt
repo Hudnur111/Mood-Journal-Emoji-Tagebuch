@@ -1,0 +1,31 @@
+Struktur des Codes
+
+HTML-Grundstruktur:
+
+Der Code beginnt mit der Definition des HTML-Dokuments und der Sprache (Deutsch).
+Im <head>-Bereich werden Metadaten, Titel, Stylesheets und Skripte eingebunden.
+Styles:
+
+Es werden CSS-Stile definiert, um das Aussehen der Seite zu gestalten. Dazu gehören Schriftarten, Farben, Hintergründe und Layouts.
+Es gibt spezielle Stile für Schaltflächen, Scrollleisten und responsive Designs für kleinere Bildschirme.
+Body-Inhalt:
+
+Der <body>-Bereich enthält die sichtbaren Teile der Anwendung, einschließlich eines Headers, Hauptinhalts und eines Footers.
+Der Header zeigt den Titel der Anwendung an.
+Der Hauptinhalt ist in verschiedene Abschnitte unterteilt:
+Stimmungsabfrage: Hier können Benutzer ihre Stimmung durch Klicken auf Emojis auswählen.
+Letzte Einträge: Zeigt die letzten Stimmungs-Einträge des Benutzers an.
+Monatsübersicht: Ein Kalender, der die Stimmung für jeden Tag des aktuellen Monats anzeigt.
+Statistik: Zeigt eine Zusammenfassung der Stimmungsdaten des Monats an.
+Interaktive Elemente:
+
+Es gibt Schaltflächen für Emojis, die beim Klicken die ausgewählte Stimmung anzeigen und den Speichern-Button aktivieren.
+Der Speichern-Button speichert die ausgewählte Stimmung zusammen mit einem Zeitstempel.
+JavaScript-Funktionalität:
+
+Der JavaScript-Code am Ende des Dokuments steuert die Interaktivität der Anwendung.
+Es werden Funktionen definiert, um:
+Emojis auszuwählen und anzuzeigen.
+Stimmungsdaten im localStorage des Browsers zu speichern, damit sie auch nach einem Neuladen der Seite erhalten bleiben.
+Einträge anzuzeigen, den Kalender zu rendern und Statistiken zu berechnen.
+Es gibt auch Funktionen, um die Daten zu formatieren und die Benutzeroberfläche zu aktualisieren.
